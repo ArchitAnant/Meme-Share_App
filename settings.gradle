@@ -1,0 +1,3 @@
+include ':memeshare'
+include ':app'
+rootProject.name = "Meme Share"
